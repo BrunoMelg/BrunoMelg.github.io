@@ -1,0 +1,23 @@
+body{
+    background-color:lightblue
+  }
+  label {
+      font-weight: bolder;
+  }
+  ::placeholder {
+      color: #ffa07a !important;
+      opacity: 3;
+  }
+  ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+      color:  #ffa07a !important;
+  }
+  :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+      color:  #ffa07a !important;
+      opacity:  3;
+   }
+   h1 {
+       text-align: center;
+   }
+   #msg{
+   
+   }
